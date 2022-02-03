@@ -1,0 +1,20 @@
+- 👋 Hi, I’m LunarLionel470
+- 👀 I’m interested in making cool files/folders for everyone to use
+- 🌱 I’m currently learning to create files that are hard for people to make
+- 🖥️LunarLionel470's PC Info
+
+PC specs:
+
+Edition: Windows 11 Pro
+Version: 21H2
+Installed Date: 2/3/2022
+OS Build: 22000.318
+Experience: Windows Feature Experience Pack 1000.22000.318.0
+
+Device Specs:
+
+Name: LunarPC
+Processor: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz   2.71 GHz
+Ram: 8 GB
+System Type: 64-bit Operating System
+Processor: x64-based processor
